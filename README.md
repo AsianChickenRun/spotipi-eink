@@ -13,7 +13,7 @@ sudo raspi-config
 
 * Download the install script
 ```
-wget https://raw.githubusercontent.com/ryanwa18/spotipi-eink/main/setup.sh
+wget https://raw.githubusercontent.com/AsianChickenRun/spotipi-eink/main/setup.sh
 chmod +x setup.sh
 ```
 
